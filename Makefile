@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -std=c++14 -Wall -MMD
-EXEC = a3q1
+EXEC = main
 OBJECTS = main.o drone.o
 DEPENDS = ${OBJECTS:.o=.d}
 

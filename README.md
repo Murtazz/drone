@@ -9,3 +9,9 @@ the same location.
 
 current(): returns current pos
 
+totalDistance(): Returns the total units of distance travelled by the drone.
+
+manhattanDistance() Returns the ”Manhattan distance” between the current position and the origin where the Manhattan distance defined as the absolute north-south displacement plus the absolute east-west displacement.
+
+bool repeated() Returns true if the current position is one that the drone
+has previously visited.

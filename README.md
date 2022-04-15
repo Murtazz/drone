@@ -1,5 +1,10 @@
 # Drone
 
+a C++ class for a drone where we control a simple robotic drone exploring some terrain. 
+
+The drone starts at coordinates (0,0), facing north.
+
+
 forward(): Move the drone one unit forward.
 
 backward(): Moves the drone one unit backward.
